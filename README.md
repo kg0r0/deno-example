@@ -1,8 +1,8 @@
 # deno-example
 
 ```
-deno run -A hello.ts
-
+$ deno run -A hello.ts
+$ deno test person_test.ts
 ```
 
 ## References
